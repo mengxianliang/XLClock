@@ -20,7 +20,7 @@ _clock.center = self.view.center;
 
 ### 其他
 
-* 项目中的动画是使用[POP](https://github.com/facebook/pop)完成的
+* 项目中的动画是使用[POP](https://github.com/facebook/pop)实现的
 
 ### 个人开发过的UI工具集合 [XLUIKit](https://github.com/mengxianliang/XLUIKit)
 
