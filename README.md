@@ -2,7 +2,7 @@
 
 ### 显示效果
 
-<img src="https://github.com/mengxianliang/XLClock/blob/master/GIF/1.gif" width=363 height=300 />
+<img src="https://github.com/mengxianliang/XLClock/blob/master/GIF/1.gif" width=420 height=300 />
 
 ### 使用方法
 
